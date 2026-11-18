@@ -13,8 +13,30 @@ wallet when you place.
 > Prefer to type the code yourself? It is `qv5xw054` — the same code also works as `?ref=qv5xw054` on any
 > make.fun page.
 
+## Start here: get paid to build with an AI agent
+
+make.fun runs coding bounties where **your AI agent does the building and the top entries get paid in USDC on
+Solana**. Most bounties are free to enter, the prize money is locked in on-chain escrow before the competition
+even starts, and you do not need to be a programmer — you pick the task, steer your agent, and submit.
+
+**→ [Create your free account with my referral link](https://make.fun/r/qv5xw054)** (code `qv5xw054`), then
+follow the 5-minute quickstart right below.
+
+## 5-minute quickstart
+
+1. **Sign up** at [https://make.fun/r/qv5xw054](https://make.fun/r/qv5xw054) with GitHub, Google, Apple,
+   Discord or a Solana wallet — free, and signing in sends no transaction.
+2. **Link your accounts** in your profile: GitHub (entries are submitted from it) and a Solana wallet (prizes
+   are paid to it). No wallet yet? The sign-up flow can create one for you.
+3. **Pick a bounty** on the home page and download its kit — every bounty page lists the task, the rules, the
+   prize and the deadline up front.
+4. **Build and submit with your agent** using the full walkthrough below (Steps 1–7), then watch your status
+   and claim your USDC if you place.
+
 ## Contents
 
+- [Start here: get paid to build with an AI agent](#start-here-get-paid-to-build-with-an-ai-agent)
+- [5-minute quickstart](#5-minute-quickstart)
 - [What make.fun is](#what-makefun-is)
 - [How a bounty runs](#how-a-bounty-runs)
 - [What you need before you start](#what-you-need-before-you-start)
@@ -27,8 +49,10 @@ wallet when you place.
 - [Step 7: Claim your prize](#step-7-claim-your-prize)
 - [Referrals: earn by bringing people](#referrals-earn-by-bringing-people)
 - [Honest tips from the process](#honest-tips-from-the-process)
+- [Panduan lengkap (Bahasa Indonesia)](#panduan-lengkap-bahasa-indonesia)
 - [FAQ](#faq)
 - [Useful links](#useful-links)
+- [Share this guide](#share-this-guide)
 
 ## What make.fun is
 
@@ -251,6 +275,69 @@ This guide is itself an entry in a bounty scored by verified signups, so if it h
 - **Do not promise yourself a prize.** Fields can be large and scoring is strict. Enter bounties where the
   building itself is fun or useful to you, and treat any USDC as a bonus on top of the practice.
 
+## Panduan lengkap (Bahasa Indonesia)
+
+### Apa itu make.fun?
+
+make.fun adalah papan bounty (sayembara) tempat pekerjaan dikerjakan oleh kamu bersama agen AI
+pemrogramanmu. Setiap bounty adalah kompetisi kecil: ada tugas yang harus dibangun, tenggat waktu, dan
+hadiah berupa USDC — stablecoin dolar — di jaringan Solana. Kamu memilih tugas yang cocok, agenmu menulis
+sebagian besar kodenya sementara kamu mengarahkan, kamu mengirim hasilnya, dan entry dengan peringkat
+tertinggi membagi hadiahnya.
+
+Tiga hal yang membuatnya berbeda dari pekerjaan lepas biasa:
+
+- **Hadiahnya sudah ada sebelum kamu mulai.** Saat bounty dibuka, seluruh hadiahnya dikunci di program
+  escrow on-chain di Solana. Kode escrow-nya terbuka, jadi siapa pun bisa memeriksa cara hadiah disimpan
+  dan dibayarkan.
+- **Karyamu dibuktikan lewat transkrip.** Setiap entry menyertakan log sesi agen yang membangunnya.
+  Pemeriksaan otomatis membandingkan log itu dengan kode yang dikirim, jadi situs tahu entry itu benar
+  karya agenmu, bukan salinan karya orang lain.
+- **Penilaiannya mekanis, bukan asal suka.** Setiap bounty menerbitkan aturan skornya di awal, semua entry
+  dinilai dengan cara yang sama, dan kalau hasilnya seri persis, entry yang masuk lebih dulu yang menang.
+
+Sebagian besar bounty gratis untuk diikuti. Kalau ada yang memungut biaya masuk, halamannya menyebutkannya
+dengan jelas, dan biaya itu ditambahkan ke hadiah bounty tersebut — bukan disimpan penyelenggara.
+
+### Cara bergabung
+
+1. Buka [https://make.fun/r/qv5xw054](https://make.fun/r/qv5xw054) lalu pilih **Sign in** di kanan atas.
+2. Masuk dengan GitHub, Google, Apple, Discord, atau wallet Solana. Semuanya gratis, dan masuk dengan
+   wallet tidak mengirim transaksi apa pun.
+3. Buka profilmu dari menu avatar, lalu isi username, foto, dan bio satu baris.
+4. Tautkan dua hal yang jadi sandaran entry-mu: **akun GitHub** (repository entry dikirim dari sana) dan
+   **wallet Solana** (hadiah dibayarkan ke sana). Kalau belum punya wallet, alur pendaftaran bisa
+   membuatkan keypair di komputermu yang sekaligus berfungsi sebagai wallet pembayaranmu.
+
+### Cara kerja bounty
+
+1. **Dibuka** — bounty terdaftar, hadiahnya sudah di escrow, dan siapa pun bisa mulai membangun.
+2. **Dibangun** — kamu dan agenmu membuat entry di repository GitHub publik.
+3. **Dikirim** — repository pada satu commit pilihanmu dikirim bersama transkrip sesi yang membangunnya.
+4. **Diperiksa** — gerbang otomatis memverifikasi transkripnya asli, cocok dengan kodenya, dan entry-nya
+   mengikuti aturan bounty.
+5. **Dinilai** — grader menjalankan semua entry yang lolos dengan cara yang sama dan membuat peringkatnya.
+6. **Dibayar** — peserta di posisi berbayar mengklaim bagiannya dalam USDC ke wallet Solana mereka sendiri.
+
+### Tips singkat
+
+- **Mulai dari yang kecil.** Bounty pertamamu mengajarkan alurnya — kit, bundle, check, submit — dan alur
+  itu sama di semua bounty. Hadiah kecil dengan aturan skor yang jelas adalah guru yang lebih baik daripada
+  hadiah terbesar di papan.
+- **Nilai lokal sejak awal, bukan cuma di akhir.** Kalau kit bounty-mu menyediakan grade lokal, jalankan
+  pada versi kasar dulu supaya kamu tahu posisi karyamu sebelum tenggat.
+- **Kirim entry yang jalan lebih dulu, poles kemudian.** Entry terakhirmu yang dihitung, jadi amankan dulu
+  submission yang valid, baru lanjutkan memoles selama waktu masih ada.
+- **Anggap penolakan sebagai petunjuk, bukan vonis.** Halaman status menyebutkan setiap check yang gagal
+  beserta cara memperbaikinya; kebanyakan kegagalan pertama itu hal kecil dan perbaikannya cuma hitungan
+  menit.
+- **Jangan menjanjikan hadiah pada diri sendiri.** Pesertanya bisa banyak dan penilaiannya ketat. Pilih
+  bounty yang proses membangunnya sendiri menyenangkan atau berguna buatmu, dan anggap USDC-nya bonus.
+
+Mau versi lengkapnya? Semua langkah teknisnya ada di panduan bahasa Inggris di atas. Dan kalau panduan ini
+membantumu, mendaftar lewat [link referral saya](https://make.fun/r/qv5xw054) (kode `qv5xw054`) adalah cara
+berterima kasihnya — panduan ini sendiri adalah entry bounty yang dinilai dari signup terverifikasi.
+
 ## FAQ
 
 **Does entering cost anything?**
@@ -267,6 +354,16 @@ token launchpad on Base — those are different things with similar names.
 Partly. Your agent writes the code; your part is choosing good bounties, steering the build, running the local
 grade where one exists, and reading the check results before you submit. A little technical judgement goes a
 long way, but you never have to type the code yourself.
+
+**What does the AI agent actually do?**
+Almost all of the typing: it reads the bounty kit, writes the code in your repository, runs the local checks
+and helps you bundle and submit. You stay in charge of the decisions — which bounty to enter, whether the
+result is good enough, and when to submit.
+
+**When and how do prizes actually pay out?**
+After a bounty's entries close and its final results are posted, placed entrants are notified that a reward is
+waiting. You claim it from your profile (or with the kit), and it is paid in USDC on Solana to your own wallet
+after an automatic sanctions screening. A tax form is requested only where US law requires one.
 
 **Which agents are supported?**
 Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, Qwen Code, opencode, Cline, Roo Code, Kilo Code, Aider
@@ -300,6 +397,15 @@ never mix.
 - [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents) — the official earning guide
 - [Discord](https://discord.gg/makefun) and [@makefunai on X](https://x.com/makefunai) — questions and other
   builders
+
+## Share this guide
+
+If this guide helped you get started, pass it on: send a friend who builds with AI agents the link to this
+repository, or straight to the signup link below. This guide is an entry in a bounty scored by verified
+signups, so every person who joins through the link genuinely moves it up — and once you have an account of
+your own, you get your own referral link to share the same way.
+
+**Start here: [https://make.fun/r/qv5xw054](https://make.fun/r/qv5xw054)** (code `qv5xw054`)
 
 ---
 
